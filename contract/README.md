@@ -1,5 +1,16 @@
+
+## Chainlink Functions COiTON consumed 
+
+COiTON Consumed [Chainlink Automations funtion]((https://github.com/Samuel1-ona/COiTON/blob/main/contract/contracts/Automation.sol))
+
+
+COiTON Consumed [Chainlink API Request Function ](https://github.com/Samuel1-ona/COiTON/blob/main/contract/contracts/Api.sol).
+
+
 [![Mentioned in Awesome Foundry](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/crisgarner/awesome-foundry)
 # Foundry + Hardhat Diamonds
+
+
 
 This is a mimimal template for [Diamonds](https://github.com/ethereum/EIPs/issues/2535) which allows facet selectors to be generated on the go in solidity tests!
 
